@@ -1,5 +1,5 @@
 {
-  "name": "bunny-starter",
+  "name": "Bunny-ts-starter",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

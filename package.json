@@ -9,7 +9,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@bunny-ts/core": "^0.1.0"
+    "@bunny-ts/common": "^0.0.14",
+    "@bunny-ts/core": "^0.1.5"
   },
   "scripts": {
     "dev": "bun run index.ts --watch"
